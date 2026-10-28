@@ -1,3 +1,2 @@
-name = "rapidusim-kiosk"
-compatibility_date = "2026-10-28"
-pages_build_output_dir = "dist"
+# wrangler.toml
+name = 'rapidusim5'
