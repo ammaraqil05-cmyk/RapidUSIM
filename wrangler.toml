@@ -1,2 +1,2 @@
-# wrangler.toml
-name = 'rapidusim5'
+compatibility_date = "2026-10-23"
+main = "src/index.ts"
